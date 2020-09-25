@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    margin-top: -30px;
+    
+}
+   
+
+.map
+{
+    padding: 50px 30px 30px 30px;
+    text-align: center;
+    background: linear-gradient(to bottom,#FFFF99 0%, #99FF99 100%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.side
+{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+
+.side
+{
+    padding-bottom: 10cm;
+}
